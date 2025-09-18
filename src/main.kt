@@ -1,4 +1,5 @@
 fun main() {
+    // create two cats
     val binnie = Cat("Binnie", 10, 10)
     val clyde = Cat("Clyde", 5, 5)
     binnie.walk()
